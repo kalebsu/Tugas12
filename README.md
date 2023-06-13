@@ -7,4 +7,8 @@ daya dapat dialokasikan secara dinamis dan efisien di antara mesin virtual terse
 
 link youtube 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzuq61u1wEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=vzuq61u1wEY
+
+mohon maaf jika kurang jelas
+
+
